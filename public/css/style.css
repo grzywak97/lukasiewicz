@@ -1,0 +1,30 @@
+
+/* Layout
+========================================*/
+
+html, body {
+    margin: 0; 
+    padding: 0;
+    background-color: white;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+
+.jumbotron {
+    border-radius: .3rem;
+}
+
+#row{
+  visibility: hidden;  
+}
+
+#result{
+    visibility: hidden;
+}
